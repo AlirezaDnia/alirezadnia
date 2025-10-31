@@ -1,45 +1,73 @@
-<h1 align="center">👋 سلام، من علیرضا داوودی‌نیا هستم</h1>
-<h3 align="center">توسعه‌دهنده فول‌استک وب، خودآموخته و پرانرژی</h3>
+
+<h1 align="center">Hi, I'm Alireza DavoodiNia 👋</h1>
+<h3 align="center">Tech Lead & Consultant for Digital Businesses</h3>
+<p align="center">Full Stack Developer • IT Solutions Architect</p>
 
 <p align="center">
-  <a href="https://naghdonline.com" target="_blank"><img src="https://img.shields.io/badge/Working%20on-Naghdonline-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://blog.alirezadev.com" target="_blank"><img src="https://img.shields.io/badge/Blog-alirezadev.com-orange?style=flat-square&logo=dev.to"></a>
-  <a href="mailto:alireza@example.com"><img src="https://img.shields.io/badge/Contact-Me-green?style=flat-square&logo=gmail"></a>
+  <a href="https://alirezadev.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-alirezadev.com-blue?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://medium.com/@alirezadevcom" target="_blank"><img src="https://img.shields.io/badge/Blog-Medium-black?style=for-the-badge&logo=medium"></a>
+  <a href="https://www.linkedin.com/in/alirezadavoodinia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Alireza%20DavoodiNia-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
 
-### 🧠 درباره من
+## 🧠 About Me
 
-- 🔭 در حال توسعه پروژه [Naghdonline](https://naghdonline.com)
-- ✍️ نویسنده مقالات در [وبلاگ شخصی](https://blog.alirezadev.com)
-- 💬 از من بپرس درباره: `PHP`, `Laravel`, `WordPress`
-- 🎯 علاقه‌مند به یادگیری مداوم و حل مسائل پیچیده
+I'm a self-taught full stack developer with a passion for building scalable, user-centric digital products. I specialize in architecting IT solutions for startups and enterprises, leading development teams, and consulting on digital transformation.
+
+- 🔭 Currently building [Sharebox.ir](https://sharebox.ir)
+- 🌐 Founder of [alirezadev.com](https://alirezadev.com)
+- ✍️ Writing on [Medium](https://medium.com/@alirezadevcom)
+- 💬 Ask me about: `PHP`, `Laravel`, `WordPress`, `Next.js`, `Docker`, `Linux`
 
 ---
 
-### 🛠️ مهارت‌ها و ابزارها
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,python,mysql,mongodb,docker,git,linux,nginx,postman,opencv,photoshop,firebase" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,linux,js,nextjs,docker,ts,wordpress,react,sass" />
 </p>
 
 ---
 
-### 📊 آمار گیت‌هاب من
+## 📦 Featured Projects
+
+<table>
+  <tr>
+    <td><strong>🔐 Sharebox.ir</strong></td>
+    <td>A secure platform for sharing and managing digital assets.</td>
+    <td><a href="https://sharebox.ir" target="_blank">Live Site</a></td>
+  </tr>
+  <tr>
+    <td><strong>🌐 alirezadev.com</strong></td>
+    <td>My personal website showcasing services, blog, and portfolio.</td>
+    <td><a href="https://alirezadev.com" target="_blank">Live Site</a></td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirezadnia&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezadnia&layout=compact&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirezadnia&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alirezadnia&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezadnia&layout=compact&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirezadnia&theme=transparent" />
 </p>
 
 ---
 
-### 🤝 ارتباط با من
+## 🧭 Philosophy
+
+> “Code is not just syntax — it’s strategy, empathy, and vision.”
+
+I believe in writing clean, maintainable code that solves real-world problems. My approach blends technical precision with business insight, helping teams deliver faster and smarter.
+
+---
+
+## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/alirezadnia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Alireza%20Davoodinia-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/alirezadev" target="_blank"><img src="https://img.shields.io/badge/Twitter-@alirezadev-blue?style=flat-square&logo=twitter"></a>
-  <a href="https://instagram.com/alirezadev" target="_blank"><img src="https://img.shields.io/badge/Instagram-@alirezadev-purple?style=flat-square&logo=instagram"></a>
+  <a href="mailto:alirezadevcom@gmail.com"><img src="https://img.shields.io/badge/Email-alirezadevcom@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/alirezadavoodinia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
